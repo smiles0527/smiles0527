@@ -1,4 +1,6 @@
-<h1 align="center">Curtis Wei</h1>
+<p align="center">
+  <img src="assets/name.svg" alt="curtis wei terminal header">
+</p>
 
 <p align="center">
 High School Student '27
@@ -33,83 +35,58 @@ High School Student '27
 
 ---
 
-## Background
+<p align="center">
+  <img src="assets/interests.svg" alt="interests">
+</p>
 
-- CCC Senior 2025: **75 / 75**, invited to the Canadian Computing Olympiad  
-- USACO **Platinum** (2025)  
-- IChO Team Alternate  
+---
+## Tech Stack
 
-Primary interests include algorithmic problem solving, systems-level programming, and full-stack application development. Outside computing, I study the natural sciences and play classical piano.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,cs,python,r,ts,js,php,html,css,react,nodejs,dotnet,swift,postgres,supabase,git,github,linux&theme=dark">
+</p>
+
+---
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,rider,xcode,git,github,linux,docker,cmake&theme=dark">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/goals.svg" alt="roadmap">
+</p>
 
 ---
 
 ## Selected Projects
 
-### Competitive_Programming  
-**Language:** C++  
-**Focus:** Algorithmic problem solving, contest preparation  
-
-This repository contains structured solutions to Canadian Computing Competition, USACO, and IOI-style problems. Emphasis is placed on asymptotic efficiency, correctness proofs, and implementation clarity. Solutions frequently involve advanced data structures, dynamic programming optimizations, and graph algorithms. The codebase is organized by contest and problem category to support systematic training.
-
-Repository: https://github.com/smiles0527/Competitive_Programming
-
----
-
-### HASO-simulation  
-**Language:** Python  
-**Focus:** Graph modeling and simulation  
-
-A simulation system modeling evacuation and routing behavior using weighted graphs. The project explores shortest-path variants, congestion modeling, and scenario-based simulation. It demonstrates practical application of graph theory concepts beyond competitive programming, with attention to modularity and experimental analysis.
-
-Repository: https://github.com/smiles0527/HASO-simulation
-
----
-
-### Budget-AI  
-**Language:** Python  
-**Focus:** Intelligent automation  
-
-An expense-tracking assistant incorporating OCR pipelines and automated classification. The project explores data ingestion, preprocessing, and rule-based inference for personal finance organization. Emphasis is placed on extensibility and clean separation between data extraction and analysis logic.
-
-Repository: https://github.com/smiles0527/Budget-AI
-
----
-
-### RoboControl  
-**Language:** C#  
-**Focus:** Systems and control software  
-
-A robotics control interface supporting telemetry visualization and command handling. The project emphasizes robustness, state management, and real-time interaction. It reflects experience with strongly typed systems programming and structured software architecture.
-
-Repository: https://github.com/smiles0527/RoboControl
-
----
-
-### fun-website  
-**Language:** JavaScript  
-**Focus:** Frontend experimentation  
-
-A lightweight web project exploring interactive UI elements and client-side logic. The repository serves as a sandbox for experimenting with frontend concepts, responsiveness, and event-driven programming.
-
-Repository: https://github.com/smiles0527/fun-website
-
----
-
-## Technology Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,ts,react,nodejs,postgres,supabase&theme=dark">
+  <a href="https://github.com/smiles0527/Competitive_Programming">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smiles0527&repo=Competitive_Programming&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/smiles0527/HASO-simulation">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smiles0527&repo=HASO-simulation&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/smiles0527/Budget-AI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smiles0527&repo=Budget-AI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/smiles0527/RoboControl">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smiles0527&repo=RoboControl&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-## Development Tools
+<p align="center">
+  <a href="https://github.com/smiles0527/fun-website">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smiles0527&repo=fun-website&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-- Git and GitHub
-- Linux-based environments
-- Docker
-- Visual Studio Code
-- CMake
-- GNU toolchain
-- PostgreSQL tooling
-- Browser developer tools
+<table>
+  <tr>
+    <td width="50%" valign="top">

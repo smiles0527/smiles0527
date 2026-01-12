@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <style>
+    .bg {
+      fill: #000;
+    }
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      fill: #fff;
+    }
+    .title {
+      font-size: 22px;
+    }
+    .item {
+      font-size: 18px;
+      opacity: 0.9;
+    }
+    .sub {
+      font-size: 15px;
+      opacity: 0.65;
+    }
+    .box {
+      fill: none;
+      stroke: #fff;
+      stroke-width: 1.5;
+      opacity: 0.85;
+    }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="900" height="220" rx="14"></rect>
+
+  <g transform="translate(32,36)">
+    <text class="mono title" x="0" y="0" dominant-baseline="hanging">&gt; interests</text>
+
+    <g transform="translate(0,36)">
+      <rect class="box" x="0" y="0" width="400" height="56" rx="8"></rect>
+      <text class="mono item" x="16" y="14" dominant-baseline="hanging">competitive programming</text>
+      <text class="mono sub" x="16" y="36" dominant-baseline="hanging">algorithms, efficiency, correctness</text>
+    </g>
+
+    <g transform="translate(436,36)">
+      <rect class="box" x="0" y="0" width="400" height="56" rx="8"></rect>
+      <text class="mono item" x="16" y="14" dominant-baseline="hanging">graph modeling</text>
+      <text class="mono sub" x="16" y="36" dominant-baseline="hanging">routing, simulation, constraints</text>
+    </g>
+
+    <g transform="translate(0,108)">
+      <rect class="box" x="0" y="0" width="400" height="56" rx="8"></rect>
+      <text class="mono item" x="16" y="14" dominant-baseline="hanging">backend and automation</text>
+      <text class="mono sub" x="16" y="36" dominant-baseline="hanging">pipelines, tooling, data handling</text>
+    </g>
+
+    <g transform="translate(436,108)">
+      <rect class="box" x="0" y="0" width="400" height="56" rx="8"></rect>
+      <text class="mono item" x="16" y="14" dominant-baseline="hanging">web development</text>
+      <text class="mono sub" x="16" y="36" dominant-baseline="hanging">frontend, integration, iteration</text>
+    </g>
+  </g>
+</svg>

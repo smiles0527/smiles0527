@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640">
+  <style>
+    .bg { fill: #000; }
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      fill: #fff;
+    }
+    .title { font-size: 22px; }
+    .sub { font-size: 15px; opacity: 0.65; }
+    .hdr { font-size: 16px; opacity: 0.92; letter-spacing: 0.4px; }
+    .txt { font-size: 15px; opacity: 0.82; }
+    .muted { opacity: 0.62; }
+    .panel { fill: none; stroke: #fff; stroke-width: 1.5; opacity: 0.9; }
+    .card { fill: none; stroke: #fff; stroke-width: 1.25; opacity: 0.85; }
+    .rule { stroke: #fff; stroke-width: 1; opacity: 0.25; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="980" height="640" rx="16"></rect>
+
+  <g transform="translate(34,28)">
+    <text class="mono title" x="0" y="0" dominant-baseline="hanging">&gt; roadmap</text>
+    <text class="mono sub" x="0" y="30" dominant-baseline="hanging">what I want to learn next (student version: ambitious, but realistic)</text>
+
+    <g transform="translate(0,62)">
+      <rect class="panel" x="0" y="0" width="912" height="540" rx="12"></rect>
+      <line class="rule" x1="456" y1="0" x2="456" y2="540"></line>
+      <line class="rule" x1="0" y1="270" x2="912" y2="270"></line>
+
+      <!-- Card 1: Data Science -->
+      <g transform="translate(22,22)">
+        <rect class="card" x="0" y="0" width="412" height="226" rx="10"></rect>
+        <text class="mono hdr" x="16" y="14" dominant-baseline="hanging">data science</text>
+        <text class="mono txt muted" x="16" y="40" dominant-baseline="hanging">focus: projects + competitions + storytelling</text>
+
+        <text class="mono txt" x="16" y="74" dominant-baseline="hanging">- Wharton HS Data Science Competition</text>
+        <text class="mono txt" x="16" y="98" dominant-baseline="hanging">- practice: cleaning, features, baselines</text>
+        <text class="mono txt" x="16" y="122" dominant-baseline="hanging">- models: linear, trees, simple ensembles</text>
+        <text class="mono txt" x="16" y="146" dominant-baseline="hanging">- evaluation: leakage, validation, metrics</text>
+        <text class="mono txt" x="16" y="170" dominant-baseline="hanging">- write-ups: clear plots + short conclusions</text>
+      </g>
+
+      <!-- Card 2: Utility Apps / .NET -->
+      <g transform="translate(478,22)">
+        <rect class="card" x="0" y="0" width="412" height="226" rx="10"></rect>
+        <text class="mono hdr" x="16" y="14" dominant-baseline="hanging">utility apps (.NET)</text>
+        <text class="mono txt muted" x="16" y="40" dominant-baseline="hanging">focus: small tools that feel polished</text>
+
+        <text class="mono txt" x="16" y="74" dominant-baseline="hanging">- tiny apps I actually use (CLI + desktop)</text>
+        <text class="mono txt" x="16" y="98" dominant-baseline="hanging">- .NET: better structure (layers, modules)</text>
+        <text class="mono txt" x="16" y="122" dominant-baseline="hanging">- testing basics: unit tests for logic</text>
+        <text class="mono txt" x="16" y="146" dominant-baseline="hanging">- packaging: releases, versioning, docs</text>
+        <text class="mono txt" x="16" y="170" dominant-baseline="hanging">- performance: profiling when it matters</text>
+      </g>
+
+      <!-- Card 3: AI (new) -->
+      <g transform="translate(22,292)">
+        <rect class="card" x="0" y="0" width="412" height="226" rx="10"></rect>
+        <text class="mono hdr" x="16" y="14" dominant-baseline="hanging">AI (new)</text>
+        <text class="mono txt muted" x="16" y="40" dominant-baseline="hanging">focus: learn by building, not by memorizing</text>
+
+        <text class="mono txt" x="16" y="74" dominant-baseline="hanging">- start: small models, real datasets</text>
+        <text class="mono txt" x="16" y="98" dominant-baseline="hanging">- basics: loss, gradients, overfitting</text>
+        <text class="mono txt" x="16" y="122" dominant-baseline="hanging">- NLP: simple text classification first</text>
+        <text class="mono txt" x="16" y="146" dominant-baseline="hanging">- one app: model + UI + explanation</text>
+        <text class="mono txt" x="16" y="170" dominant-baseline="hanging">- keep notes: what failed and why</text>
+      </g>
+
+      <!-- Card 4: Web Development -->
+      <g transform="translate(478,292)">
+        <rect class="card" x="0" y="0" width="412" height="226" rx="10"></rect>
+        <text class="mono hdr" x="16" y="14" dominant-baseline="hanging">web development</text>
+        <text class="mono txt muted" x="16" y="40" dominant-baseline="hanging">focus: shipping + reliability + clean UX</text>
+
+        <text class="mono txt" x="16" y="74" dominant-baseline="hanging">- React/TS: components, state, patterns</text>
+        <text class="mono txt" x="16" y="98" dominant-baseline="hanging">- backend: auth, APIs, rate limits</text>
+        <text class="mono txt" x="16" y="122" dominant-baseline="hanging">- data: Postgres, migrations, indexing</text>
+        <text class="mono txt" x="16" y="146" dominant-baseline="hanging">- shipping: deploy + logs + monitoring</text>
+        <text class="mono txt" x="16" y="170" dominant-baseline="hanging">- polish: accessibility + performance</text>
+      </g>
+
+    </g>
+  </g>
+</svg>
