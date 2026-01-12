@@ -17,27 +17,23 @@ High School Student '27
 
 ## Overview
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smiles0527&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smiles0527&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiles0527&theme=tokyo-night&hide_border=true">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smiles0527&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smiles0527&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="assets/interests.svg" alt="interests">
+  <img src="assets/roadmap.svg" alt="roadmap">
 </p>
+
 
 ---
 ## Tech Stack
@@ -55,8 +51,16 @@ High School Student '27
 
 ---
 
+## Contribution Activity
+
 <p align="center">
-  <img src="assets/roadmap.svg" alt="roadmap">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiles0527&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/interests.svg" alt="interests">
 </p>
 
 ---
