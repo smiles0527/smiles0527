@@ -1,23 +1,19 @@
-<p align="center">
-  <img width="250" src="https://github.com/smiles0527.png" alt="Curtis Wei avatar">
-</p>
-
 <h1 align="center">Curtis Wei</h1>
 
 <p align="center">
-  <strong>High School Student '27
+High School Student '27
 </p>
 
 <p align="center">
   <a href="https://instagram.com/smiles0527">
-    <img src="https://img.shields.io/badge/Instagram-@smiles0527-833AB4?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-smiles0527-833AB4?style=flat&logo=instagram&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Discord-festivixy-5865F2?style=flat&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-festivixy-5865F2?style=flat&logo=discord&logoColor=white">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Profile Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smiles0527&show_icons=true&theme=tokyonight&hide_border=true">
@@ -29,113 +25,91 @@
 
 ---
 
-## 💡 About Me
+## Contribution Activity
 
 <p align="center">
-  <em>Competitive problem solver and full-stack creator with solutions in rapid prototyping and efficient algorithms.</em>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiles0527&theme=tokyo-night&hide_border=true">
 </p>
 
-- CCC Senior 2025 — **75/75**, invited to Canadian Computing Olympiad  
+---
+
+## Background
+
+- CCC Senior 2025: **75 / 75**, invited to the Canadian Computing Olympiad  
 - USACO **Platinum** (2025)  
-- Enjoy piano performance and natural sciences exploration
+- IChO Team Alternate  
+
+Primary interests include algorithmic problem solving, systems-level programming, and full-stack application development. Outside computing, I study the natural sciences and play classical piano.
 
 ---
 
-## 🚀 Pinned Projects
+## Selected Projects
 
-### 🔥 Competitive Programming
-<p align="center">
-  <a href="https://github.com/smiles0527/Competitive_Programming">
-    <img src="https://img.shields.io/badge/Competitive_Programming-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  </a>
-</p>
-<p align="center">
-Structured solutions for CCC, USACO, IOI-style problems with performance emphasis.
-</p>
+### Competitive_Programming  
+**Language:** C++  
+**Focus:** Algorithmic problem solving, contest preparation  
+
+This repository contains structured solutions to Canadian Computing Competition, USACO, and IOI-style problems. Emphasis is placed on asymptotic efficiency, correctness proofs, and implementation clarity. Solutions frequently involve advanced data structures, dynamic programming optimizations, and graph algorithms. The codebase is organized by contest and problem category to support systematic training.
+
+Repository: https://github.com/smiles0527/Competitive_Programming
 
 ---
 
-### 📐 HASO-simulation
-<p align="center">
-  <a href="https://github.com/smiles0527/HASO-simulation">
-    <img src="https://img.shields.io/badge/HASO--simulation-Python-3776AB?style=flat&logo=python&logoColor=white">
-  </a>
-</p>
-<p align="center">
-Simulation engine modeling evacuation paths using weighted graph paradigms.
-</p>
+### HASO-simulation  
+**Language:** Python  
+**Focus:** Graph modeling and simulation  
+
+A simulation system modeling evacuation and routing behavior using weighted graphs. The project explores shortest-path variants, congestion modeling, and scenario-based simulation. It demonstrates practical application of graph theory concepts beyond competitive programming, with attention to modularity and experimental analysis.
+
+Repository: https://github.com/smiles0527/HASO-simulation
 
 ---
 
-### 💼 Budget-AI
-<p align="center">
-  <a href="https://github.com/smiles0527/Budget-AI">
-    <img src="https://img.shields.io/badge/Budget--AI-Python-3776AB?style=flat&logo=python&logoColor=white">
-  </a>
-</p>
-<p align="center">
-Expense tracking assistant with OCR processing and intelligent categorization.
-</p>
+### Budget-AI  
+**Language:** Python  
+**Focus:** Intelligent automation  
+
+An expense-tracking assistant incorporating OCR pipelines and automated classification. The project explores data ingestion, preprocessing, and rule-based inference for personal finance organization. Emphasis is placed on extensibility and clean separation between data extraction and analysis logic.
+
+Repository: https://github.com/smiles0527/Budget-AI
 
 ---
 
-### 🌐 fun-website
-<p align="center">
-  <a href="https://github.com/smiles0527/fun-website">
-    <img src="https://img.shields.io/badge/fun--website-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  </a>
-</p>
-<p align="center">
-A creative web app built with JavaScript and responsive UI design.
-</p>
+### RoboControl  
+**Language:** C#  
+**Focus:** Systems and control software  
+
+A robotics control interface supporting telemetry visualization and command handling. The project emphasizes robustness, state management, and real-time interaction. It reflects experience with strongly typed systems programming and structured software architecture.
+
+Repository: https://github.com/smiles0527/RoboControl
 
 ---
 
-### 🤖 RoboControl
-<p align="center">
-  <a href="https://github.com/smiles0527/RoboControl">
-    <img src="https://img.shields.io/badge/RoboControl-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-  </a>
-</p>
-<p align="center">
-Control interface for robotics with telemetry and robust state-estimation.
-</p>
+### fun-website  
+**Language:** JavaScript  
+**Focus:** Frontend experimentation  
+
+A lightweight web project exploring interactive UI elements and client-side logic. The repository serves as a sandbox for experimenting with frontend concepts, responsiveness, and event-driven programming.
+
+Repository: https://github.com/smiles0527/fun-website
 
 ---
 
-## 🛠 Tech Stack
+## Technology Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,ts,react,nodejs,postgres,supabase&theme=dark">
 </p>
 
 ---
 
-## 🧰 Tools
+## Development Tools
 
-- Git & GitHub
-- Linux CLI
+- Git and GitHub
+- Linux-based environments
 - Docker
-- VS Code
+- Visual Studio Code
 - CMake
-- GNU Toolchain
-- PostgreSQL ecosystem
-- Browser DevTools
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://instagram.com/smiles0527">
-    <img src="https://img.shields.io/badge/Instagram-@smiles0527-833AB4?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+- GNU toolchain
+- PostgreSQL tooling
+- Browser developer tools
