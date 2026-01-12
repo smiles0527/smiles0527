@@ -51,14 +51,6 @@ High School Student '27
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiles0527&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
 <p align="center">
   <img src="assets/interests.svg" alt="interests">
 </p>
