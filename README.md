@@ -19,9 +19,12 @@ I am a high school student focused on competitive programming and systems-orient
 My work spans algorithmic problem solving, backend engineering, and full-stack application design.
 
 **Competitive Programming**
-- Canadian Computing Competition: Full Score (2025)
-- Invited to Canadian Computing Olympiad
+- CCC senior 2025: 75/75, invited to CCO
 - USACO Platinum (2025)
+
+In the meantime, I enjoy playing piano and studying the natural sciences!
+
+(IChO team alternate)
 
 ---
 
