@@ -2,9 +2,6 @@
   <img src="assets/name.svg" alt="curtis wei terminal header">
 </p>
 
-<p align="center">
-High School Student '27
-</p>
 
 <p align="center">
   <a href="https://instagram.com/smiles0527">
