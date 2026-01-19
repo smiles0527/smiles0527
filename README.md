@@ -42,12 +42,6 @@
 
 ---
 
-<p align="center">
-  <img src="assets/interests.svg" alt="interests">
-</p>
-
----
-
 ## Selected Projects
 
 <p align="center">
