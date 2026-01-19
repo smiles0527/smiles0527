@@ -25,12 +25,6 @@
   </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="assets/roadmap.svg" alt="roadmap">
-</p>
-
 
 ---
 ## Tech Stack
